@@ -17,9 +17,3 @@ function doWhileLoop(n) {
     }
   return 'done'
 }
-
-
-
-
-
-
