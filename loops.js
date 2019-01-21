@@ -11,12 +11,12 @@ function forLoop(array) {
   return array;
 }
 
-function doWhileLoop(n) {
-    while (n > 0) {
-      console.log(--n)
-    }
-  return 'done'
-}
+// function doWhileLoop(n) {
+//     while (n > 0) {
+//       console.log(--n)
+//     }
+//   return 'done'
+// }
 
 
 
