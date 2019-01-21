@@ -19,8 +19,7 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(n) {
-    while (n > 0) {
-      console.log(--n)
-    }
+  do {console.log(--n);}
+  while (n > 0);
   return 'done'
 }
